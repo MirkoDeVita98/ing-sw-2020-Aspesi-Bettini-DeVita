@@ -1,12 +1,9 @@
 # Prova Finale Ingegneria del Software 2020
-# Scaglione Margara
-
-## Gruppo AM09
 
 
-- ###   10568949    Andrea Aspesi ([@AspesiAndrea](https://github.com/AspesiAndrea))<br>andrea1.aspesi@mail.polimi.it
-- ###   10580728    Matteo Bettini ([@MatteoBettini](https://github.com/MatteoBettini))<br>matteo1.bettini@mail.polimi.it
-- ###   10560693    Mirko De Vita ([@MirkoDeVita98](https://github.com/MirkoDeVita98))<br>mirko.devita@mail.polimi.it
+- ###  Andrea Aspesi ([@AspesiAndrea](https://github.com/AspesiAndrea))<br>andrea1.aspesi@mail.polimi.it
+- ###  Matteo Bettini ([@MatteoBettini](https://github.com/MatteoBettini))<br>matteo1.bettini@mail.polimi.it
+- ###  Mirko De Vita ([@MirkoDeVita98](https://github.com/MirkoDeVita98))<br>mirko.devita@mail.polimi.it
 
 | Functionality | State |
 |:-----------------------|:------------------------------------:|
@@ -75,16 +72,6 @@
  Two game-modes are implemented:
  - **Normal**: the Server sends the possible moves/builds to the Client so that they are displayed to the Player during his/her turn.
  - **Hardcore**: in this mode there are no suggestions and the Player can lose if he/she does not obey to Gods' rules.
- 
- ## Testing and Documentation
- 
- The [model](src/main/java/it/polimi/ingsw/server/model) and [card](src/main/java/it/polimi/ingsw/server/cards)'s packages are entirely tested:
- 
- - <a href="deliveries/TestCoverage" title="Tests' Coverage Report">Tests' Coverage Report</a>
- ![Model Coverage](deliveries/TestCoverage/modelCoverage.png)
- ![Cards Coverage](deliveries/TestCoverage/cardsCoverage.png)
- 
- - [JavaDoc](deliveries/JavaDoc)
  
  ## Tools
  
